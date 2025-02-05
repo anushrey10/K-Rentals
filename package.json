@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anushrey10/K-Rentals.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anushrey10/K-Rentals/issues"
+  },
+  "homepage": "https://github.com/anushrey10/K-Rentals#readme"
 }
